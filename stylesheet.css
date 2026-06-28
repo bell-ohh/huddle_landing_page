@@ -10,7 +10,7 @@
 
 body {
     font: 'Open Sans' sans-serif;
-    background-image: url(./assets/bg-desktop.svg);
+    background-image: url(/bg-desktop.svg);
     background-size: cover;
     background-color: var(--purple);
 }
